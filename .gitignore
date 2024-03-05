@@ -1,0 +1,10 @@
+### Win OS ###
+/.idea/
+/.idea/*
+/untitled.iml
+
+### Unix OS ###
+.DS_Store
+\.idea\
+\.idea\*
+\untitled.iml
